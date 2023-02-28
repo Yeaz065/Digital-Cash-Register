@@ -16,4 +16,7 @@ Group Members: Yeaz Mahmud (1806065), Mst. Noor Afroz Rimu (1806054), Md Fardin 
 
 Course Instructors: Mr. Hamidur Rahman, Barproda Halder
 
-Abstract: 
+Abstract: Our project is a prototype of digital cash register used for registering and calculating transactions. Our project reads the price tag from barcode printed
+on different products in a form of binary digits and then calculates the total price of the products. It also has the facility to not only add the price of
+product but also subtract the price if the customer changes his mind to buy it. We used logic networks to store values and add or subtract values. In our
+project we have used a 4-bit ripple adder circuit along with XOR gates for addition and subtraction operation. Positive edge d-flip-flops is used to store values.
