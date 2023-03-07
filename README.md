@@ -20,3 +20,6 @@ Abstract: Our project is a prototype of digital cash register used for registeri
 on different products in a form of binary digits and then calculates the total price of the products. It also has the facility to not only add the price of
 product but also subtract the price if the customer changes his mind to buy it. We used logic networks to store values and add or subtract values. In our
 project we have used a 4-bit ripple adder circuit along with XOR gates for addition and subtraction operation. Positive edge d-flip-flops is used to store values.
+
+
+![20230227_122606](https://user-images.githubusercontent.com/68266229/223436569-090316fc-469b-4bca-9205-a0eeb6968344.jpg)
