@@ -25,5 +25,3 @@ project we have used a 4-bit ripple adder circuit along with XOR gates for addit
 ![20230227_122606](https://user-images.githubusercontent.com/68266229/223436569-090316fc-469b-4bca-9205-a0eeb6968344.jpg)
 
 Youtube video link: https://youtu.be/tfOODzNEQrQ?si=E313ixZ6Jk_BtVcu
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tfOODzNEQrQ?si=E313ixZ6Jk_BtVcu/0.jpg)](https://www.youtube.com/watch?v=tfOODzNEQrQ?si=E313ixZ6Jk_BtVcu)
